@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Bicijuego<br><br>🌱 I’m currently learning Nest.js, node.js, Docker<br><br>👯 I’m colaborating in Bookwise<br><br>💬 Ask me about javascript, python, node<br>
+🔭 I’m currently working on Bicijuego <br><br>🌱 I’m currently learning Nest.js, node.js, Docker<br><br>👯 I’m colaborating in Bookwise<br><br>💬 Ask me about javascript, python, node<br>
 
 
 ## 🌐 Socials:
